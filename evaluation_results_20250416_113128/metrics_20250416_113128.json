@@ -1,0 +1,44 @@
+{
+            "accuracy": 1.0,
+            "class_metrics": {
+                
+                         "Earthquake": {
+                                            "precision": 1.0,
+                                            "recall": 1.0,
+                                            "f1-score": 1.0,
+                                            "support": 16.0
+                                         },
+                        "Flood": {
+                                            "precision": 1.0,
+                                            "recall": 1.0,
+                                            "f1-score": 1.0,
+                                            "support": 106.0
+                                        },
+                        "GLOF": {
+                                            "precision": 1.0,
+                                            "recall": 1.0,
+                                            "f1-score": 1.0,
+                                            "support": 9.0
+                                        },
+                        "Landslide": {
+                                            "precision": 1.0,
+                                            "recall": 1.0,
+                                            "f1-score": 1.0,
+                                            "support": 175.0
+                                        },
+
+                        "accuracy": 1.0,
+                        "macro avg": {
+                            "precision": 1.0,
+                            "recall": 1.0,
+                            "f1-score": 1.0,
+                            "support": 306.0
+                        },
+                        "weighted avg": {
+                            "precision": 1.0,
+                            "recall": 1.0,
+                            "f1-score": 1.0,
+                            "support": 306.0
+                }
+            }
+}

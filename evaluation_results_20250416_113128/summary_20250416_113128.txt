@@ -1,0 +1,19 @@
+Random Forest Classifier Evaluation Summary
+Date: 2025-04-16 11:31:29
+
+Overall Accuracy: 1.0000
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Earthquake       1.00      1.00      1.00        16
+       Flood       1.00      1.00      1.00       106
+        GLOF       1.00      1.00      1.00         9
+   Landslide       1.00      1.00      1.00       175
+
+    accuracy                           1.00       306
+   macro avg       1.00      1.00      1.00       306
+weighted avg       1.00      1.00      1.00       306
+
+Model saved as: trained_models\random_forest_hazard_classifier_20250416_113128.joblib
+Evaluation metrics and visualizations saved in: evaluation_results_20250416_113128
